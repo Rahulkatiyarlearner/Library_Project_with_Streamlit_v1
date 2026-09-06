@@ -1,6 +1,4 @@
-import markdown
-
-readme_content = """# 📚 Library Management System (Streamlit & Python SQLite App)
+## 📚 Library Management System (Streamlit & Python SQLite App)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://libraryabc.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
